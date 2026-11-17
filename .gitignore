@@ -1,0 +1,21 @@
+# 本地学习资料，不入库
+# 练习 notebook（按日期命名的草稿）、面试讲稿、被取代的旧分析
+_local/
+
+# 数据文件
+# pylidc.sqlite 24.9 MB，可自动下载；获取方法见 README「复现」
+data/pylidc.sqlite
+data/lidc_masks/
+
+# Slicer 场景复制出来的体数据（46 MB，不是源码；场景 .mrml 本身保留）
+slicer/*.mhd
+slicer/*.zraw
+
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 临时产物
+*.log
+_tmp/

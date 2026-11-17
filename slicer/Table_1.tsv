@@ -1,0 +1,3 @@
+Segment	Voxel count (LM)	Volume mm3 (LM)	Volume cm3 (LM)	Voxel count (SV)	Volume mm3 (SV)	Volume cm3 (SV)	Minimum	Maximum	Mean	Standard deviation	Percentile 5	Percentile 95	Median	Surface mm2	Volume mm3 (CS)	Volume cm3 (CS)
+nodule_13.6mm	4326	1628.8	1.6288	4326	1628.8	1.6288	-1024	726	-169.135	293.06	-706	260	-137	757.831	1600.73	1.60073
+ nodule_4.3mm_threshold	177	66.6432	0.0666432	177	66.6432	0.0666432	-884	250	-245.35	215.983	-627	113	-245	73.038	54.5335	0.0545335
